@@ -1,0 +1,14 @@
+# dotenv environment variables file
+.env
+
+# do not track complete strapi app
+app/README.md
+app/build
+app/config
+app/extensions
+app/favicon.ico
+app/public
+
+# do not track data and node_modules
+data
+node_modules
